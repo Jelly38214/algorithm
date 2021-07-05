@@ -1,0 +1,25 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "Record some algorithm and it's usage in frontend area",
+  "main": "bubbleSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev design_pattern/strategy.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jelly38214/algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jelly38214/algorithm/issues"
+  },
+  "homepage": "https://github.com/Jelly38214/algorithm#readme",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  }
+}
